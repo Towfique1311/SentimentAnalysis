@@ -1,1 +1,1 @@
-This is a simple Sentiment Analysis for University course
+This is a simple Sentiment Analysis for a University course. 
